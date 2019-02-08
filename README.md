@@ -9,5 +9,7 @@ This notebook contains sample codes to build and train a gradient boosted tree-b
 The main IPython notebook is posted here:
 1. *[rock_class_xgboost_seg_fnl.ipynb](rock_class_xgboost_seg_fnl.ipynb)
    * This notebook covers data preparation, data QC, model training, model prediction, conclusion and discussion.
-   
+  
+A discription of the well log measurements are given by the SEG Machine Learning Contest webpage ([link here](https://github.com/seg/2016-ml-contest)).
+
 Suggestions or comments are welcome!
