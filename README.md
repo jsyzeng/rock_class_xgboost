@@ -6,7 +6,7 @@ This notebook contains sample codes to build and train a gradient boosted tree-b
 
 > This work is summarized in a paper entitled **Application of Machine Learning in Rock Facies Classification with Physics-Motivated Feature Augmentation** ([arxiv:1808.09856](https://arxiv.org/abs/1808.09856)) (co-author Jie Chen), and was presented in *2018 SEG Maximizing Asset Value through Artificial Intelligence and Machine Learning Workshop* ([2018 SEG Beijing Workshop](https://seg.org/Portals/0/SEG/Events/AIML_2018/Official_Program_AI_ML.pdf)). 
 
-The main IPython notebook is posted here:
+The main Jupyter notebook is posted here:
 1. *[rock_class_xgboost_seg_fnl.ipynb](rock_class_xgboost_seg_fnl.ipynb)
    * This notebook covers data preparation, data QC, model training, model prediction, conclusion and discussion.
   
